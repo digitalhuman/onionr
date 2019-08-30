@@ -8,11 +8,10 @@
     Private P2P Communication Network 📡
 </p>
 
-<img src='https://img.shields.io/github/license/beardog108/onionr'> <img src='https://gitlab.com/beardog/Onionr/badges/master/build.svg'> <img src='https://img.shields.io/badge/docker%20%F0%9F%90%8B-supported-success'> <img src='https://img.shields.io/badge/Ppthon%20version%20%F0%9F%90%8D-3.6+%20%E2%9C%93-blue'> <img src='https://img.shields.io/keybase/btc/beardog'> <img src='https://img.shields.io/github/commit-activity/m/beardog108/onionr'>
+<img src='https://img.shields.io/github/license/beardog108/onionr'> <img src='https://gitlab.com/beardog/Onionr/badges/master/build.svg'> <img src='https://img.shields.io/badge/docker%20%F0%9F%90%8B-supported-success'> <img src='https://img.shields.io/badge/python%20version%20%F0%9F%90%8D-3.6+%20%E2%9C%93-blue'> <img src='https://img.shields.io/keybase/btc/beardog'> <img src='https://img.shields.io/github/commit-activity/m/beardog108/onionr'>
 
 <img src = 'https://img.shields.io/reddit/subreddit-subscribers/onionr?style=social'> <img src='https://img.shields.io/twitter/follow/onionrnet?style=social'>
 
-|                                      |                            |                            |
 | -----------                          | -----------                | -----------                |
 | [Install](#install-and-run-on-linux) | [Features](#main-features) | [Screenshots](#screenshots)|
 | [Docs](#documentation)               | [Get involved](#help-out)  | [Onionr.net](https://onionr.net/)/[.onion](http://onionr.onionkvc5ibm37bmxwr56bdxcdnb6w3wm4bdghh5qo6f6za7gn7styid.onion/)                  |
