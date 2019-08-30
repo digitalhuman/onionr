@@ -12,6 +12,7 @@
 
 <img src = 'https://img.shields.io/reddit/subreddit-subscribers/onionr?style=social'> <img src='https://img.shields.io/twitter/follow/onionrnet?style=social'>
 
+|                                      |                            |                            |
 | -----------                          | -----------                | -----------                |
 | [Install](#install-and-run-on-linux) | [Features](#main-features) | [Screenshots](#screenshots)|
 | [Docs](#documentation)               | [Get involved](#help-out)  | [Onionr.net](https://onionr.net/)/[.onion](http://onionr.onionkvc5ibm37bmxwr56bdxcdnb6w3wm4bdghh5qo6f6za7gn7styid.onion/)                  |
