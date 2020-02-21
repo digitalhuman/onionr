@@ -1,5 +1,4 @@
 __pycache__/
-src/data/config.ini
 src/data/*.db
 src/data-old/*
 src/data*
